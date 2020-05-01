@@ -1,0 +1,13 @@
+{
+  "name": "PeacefulEnemies",
+  "author": "janniksam",
+  "description": "Removes the ability of an enemy to attack you.",
+  "version": "1.0",
+  "license": "MIT",
+  "icon": "",
+  "banner": "",
+  "gameVersion": "1.0",
+  "updateUrl": "https://greenhellmodding.com/api/v1/mods/peacefulenemies/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
